@@ -9,7 +9,7 @@
   "author": "panacea",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^3.0.4",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
     "gulp-stylelint": "^9.0.0",
