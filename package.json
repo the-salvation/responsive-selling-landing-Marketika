@@ -13,7 +13,7 @@
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
     "gulp-stylelint": "^9.0.0",
-    "stylelint": "^10.1.0",
+    "stylelint": "^17.16.0",
     "stylelint-config-recess-order": "^2.0.3",
     "stylelint-config-standard": "^18.3.0"
   },
